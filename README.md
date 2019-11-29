@@ -25,8 +25,8 @@ C++, GLSL based CG implementations including Ray Traycing, Rasterizing, Bezier C
 
 - [x] De Casteljau’s Algorithm
 - [x] Segment Grouping
-- [x] G<sup>1-Continuity
-- [x] G<sup>1-Continuous Path Completion
+- [x] G<sup>1</sup>-Continuity
+- [x] G<sup>1</sup>-Continuous Path Completion
 
 ## Path Tracing
 - [x] Light
