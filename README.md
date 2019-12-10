@@ -11,7 +11,7 @@ C++, GLSL based CG implementations including Ray Traycing, Rasterizing, Bezier C
 - [x] Refraction
 - [x] Fresnel reflection
 
-## Ray tracing
+## Rasterization
 
 
 - [x] Projection
